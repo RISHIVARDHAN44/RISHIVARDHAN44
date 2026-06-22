@@ -7,7 +7,7 @@ Code.Learn.Build.Repeat
  Aspiring Full-Stack Developer | Passionate about Web Development, JavaScript, Python, and SQL. Building projects, learning new technologies, and growing one commit at a time.
 
 * ✉️  You can contact me at [rrishivardhan296@gmail.com](mailto:rrishivardhan296@gmail.com)
-* 📈  Check out my portfolio to see my latest projects, technical skills, and experiences [https://portfolio-inky-eta-65.vercel.app/]
+* 📈  Check out my portfolio [https://portfolio-inky-eta-65.vercel.app/]
 * 🧠  Exploring new technologies and development practices.
 * 👥  Open to learning, collaborating, and growing with the developer community.
 * 💬  I enjoy turning ideas into real-world applications through code and continuous learning.
