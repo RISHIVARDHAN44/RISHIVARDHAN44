@@ -1,4 +1,4 @@
-Hi ![] My name is RISHIVARDHAN R
+Hi ! My name is RISHIVARDHAN 
 =======================================================================================================================================
 
 Code.Learn.Build.Repeat
@@ -7,6 +7,7 @@ Code.Learn.Build.Repeat
 BCA Graduate | Aspiring Full-Stack Developer | Passionate about Web Development, JavaScript, Python, and SQL. Building projects, learning new technologies, and growing one commit at a time.
 
 * ✉️  You can contact me at [rrishivardhan296@gmail.com](mailto:rrishivardhan296@gmail.com)
+* 📈  Check out my portfolio to see my latest projects, technical skills, and experiences [https://portfolio-inky-eta-65.vercel.app/]
 * 🧠  I'm currently learning I'm currently learning: - Full-Stack Web Development - React.js - Node.js - SQL - REST APIs
 * 👥  I'm looking to collaborate on I'm open to collaborating on Web Development, Python, Open Source, and Data Analytics projects.
 * 💬  Ask me about Fun fact: I enjoy turning ideas into real-world applications through code and continuous learning.
